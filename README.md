@@ -48,12 +48,13 @@ To build a strong foundation in algorithmic thinking and complexity analysis, wh
 
 *Computer Science Student | Building core CS fundamentals*
 
-### 📬 **Reach Me**
+## 🌐 Connect With Me 
+
 | Platform | Link |
-|--------|------|
-| **LinkedIn** | https://linkedin.com/in/your-profile |
-| **Instagram** | https://instagram.com/your-profile |
-| **Email** | your.email@example.com |
+ 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-usman736/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usman.rizz6769@gmail.com)  [![Hotmail](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:Muhammad_usman2023@hotmail.com)
+
 
 ---
 
